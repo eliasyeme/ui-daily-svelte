@@ -11,7 +11,7 @@
 </script>
 
 <nav
-	class="flex w-full justify-between bg-white p-8 text-slate-900"
+	class="flex w-full justify-between bg-white p-4 text-slate-900 md:items-center"
 	class:border-b={isNavShowing}
 	class:shadow={isNavShowing}
 >
